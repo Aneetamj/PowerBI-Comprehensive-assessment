@@ -14,3 +14,4 @@ Sales Trends: Year-over-year growth was observed, with Q4 consistently being the
 Profit Trends: While sales increased during certain periods, there were fluctuations in profit margins, suggesting cost management challenges or pricing strategy inconsistencies during peak seasons.
 
 This analysis provides a comprehensive view of the company’s financial health, highlighting strengths in top-performing markets and products, while also identifying areas for improvement. With Power BI’s interactive capabilities, users can explore insights more deeply, making data-driven decisions to optimize performance and profitability in future periods.
+
